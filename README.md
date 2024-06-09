@@ -1,6 +1,6 @@
 ![image](https://github.com/YuHaRee/mvc-practice/assets/101623679/a869cbdd-2919-4f70-94c8-420ef89e319e)
 24-06-06 (목) 17:23
-1-3 호출 정상 재확인
+1-3 호출 정상 재확인 - 호출시 캡쳐와 같이 나온다면 정상.
 
 
 
